@@ -4,6 +4,15 @@
     padding: 0 15px;
 }
 
+@media (max-width: 768px) {
+
+    .inner {
+
+        padding: 0 30px;
+    }
+}
+
+
 .default {
     padding: 100px 0;
 }
